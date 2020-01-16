@@ -1,4 +1,4 @@
-#define ARRAY_LEN 10000
+#define ARRAY_LEN 100000
 #define NAME_PRINT_LEN 30
 
 //sorting algorithms

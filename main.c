@@ -35,7 +35,7 @@ int main() {
 
 
 /*
-  //Quick sort (C) THIS SHIT IS NOT WORKING
+  //Quick sort (C) THIS IS NOT WORKING
 
   array = create_array(50, 0, 300);
   start = clock();
@@ -71,7 +71,7 @@ int main() {
 
 
 
-
+//HELPER FUNCTIONS
 
 
 //creates a test array
