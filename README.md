@@ -15,3 +15,7 @@ HOW TO COMPILE AND RUN:
    $ as merge_sort.s -o merge_sort.o
    $ gcc -O main.c merge_sort.c insertion_sort.c insertion_sort.o merge_sort.o -o main
    $ ./main
+
+
+NOTE:
+ you can compile it without the optimization flag, ( -o ) in order to see the real difference between C code and Assemblyx86
